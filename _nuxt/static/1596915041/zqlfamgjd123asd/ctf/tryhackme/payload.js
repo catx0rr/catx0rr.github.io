@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/zqlfamgjd123asd/ctf/tryhackme", {data:[{}],fetch:[],mutations:void 0});
